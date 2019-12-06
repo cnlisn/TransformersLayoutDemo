@@ -14,7 +14,7 @@
 - scrollbar样式可配置
 
 # Preview
-![]()
+![Image text]()
 
 
 **Step 1：** xml布局文件
